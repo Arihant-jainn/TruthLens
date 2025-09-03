@@ -45,7 +45,7 @@ A cutting-edge AI platform designed to combat misinformation and deepfake conten
 *Detailed results page with credibility scores and AI explanations*
 
 ### Deepfake Detection
-![Deepfake Detector](./screenshots/deepfake-detector.png)
+![Deepfake Detector](./assets/deepfakedetectorpng.png)
 *Advanced deepfake detection with visual analysis tools*
 
 ### Dark Mode
