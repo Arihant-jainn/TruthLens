@@ -33,11 +33,11 @@ A cutting-edge AI platform designed to combat misinformation and deepfake conten
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](././assets/home.png)
 *Modern hero section with call-to-action and feature highlights*
 
 ### Fake News Detection
-![Fake News Detector](./screenshots/fake-news-detector.png)
+![Fake News Detector](./assets/fakenewsdetector.png)
 *Comprehensive fake news analysis interface with multiple input methods*
 
 
