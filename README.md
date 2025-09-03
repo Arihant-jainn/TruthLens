@@ -1,4 +1,4 @@
-# TruthLens - AI-Powered Fake News & Deepfake Detection Platform
+# TruthLens - [AI-Powered Fake News & Deepfake Detection Platform]
 
 ![TruthLens Logo](./assets/home.png)
 
