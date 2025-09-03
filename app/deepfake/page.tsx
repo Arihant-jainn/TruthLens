@@ -139,8 +139,8 @@ export default function DeepfakeDetector() {
                         <Video className="w-16 h-16 mx-auto text-primary" />
                       )}
                       <p className="font-medium">{selectedFile?.name}</p>
-                      <p className="text-sm text-muted-foreground">
-                        {(selectedFile?.size || 0 / 1024 / 1024).toFixed(2)} MB
+                     <p className="text-sm text-muted-foreground">
+                    {((selectedFile?.size || 0) / 1024 / 1024).toFixed(2)} MB
                       </p>
                     </div>
                   ) : (
