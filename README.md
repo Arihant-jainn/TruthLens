@@ -40,21 +40,12 @@ A cutting-edge AI platform designed to combat misinformation and deepfake conten
 ![Fake News Detector](./screenshots/fake-news-detector.png)
 *Comprehensive fake news analysis interface with multiple input methods*
 
-### Analysis Results
-![Analysis Results](./screenshots/analysis-results.png)
-*Detailed results page with credibility scores and AI explanations*
+
 
 ### Deepfake Detection
 ![Deepfake Detector](./assets/deepfakedetectorpng.png)
 *Advanced deepfake detection with visual analysis tools*
 
-### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
-*Beautiful dark theme implementation across all pages*
-
-### Mobile Responsive
-![Mobile View](./screenshots/mobile-responsive.png)
-*Fully responsive design optimized for mobile devices*
 
 ## 🛠️ Technology Stack
 
