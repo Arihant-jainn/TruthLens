@@ -150,65 +150,14 @@ NEXT_PUBLIC_APP_NAME=TruthLens
 NEXT_PUBLIC_GA_ID=your_google_analytics_id
 ```
 
-### Tailwind Configuration
-
-The project uses a custom Tailwind configuration with:
-- Custom color palette for professional SaaS design
-- Extended spacing system (8px grid)
-- Custom animations and transitions
-- Dark mode support with CSS variables
-
-### ShadCN UI Components
-
-Pre-configured with:
-- Custom theme colors
-- Consistent border radius
-- Accessible color contrasts
-- Animation presets
 
 
 
-### Deepfake Detection
 
-1. **Navigate to Deepfake Detector**
-   - Use the navigation menu
-   - Or click "Detect Deepfakes" button
 
-2. **Upload Media**
-   - Drag and drop files or click to browse
-   - Supports images (JPG, PNG) and videos (MP4, MOV)
 
-3. **Analyze for Manipulation**
-   - Click "Detect Deepfake"
-   - Wait for neural network analysis (3-4 seconds)
 
-4. **Review Detection Results**
-   - View manipulation probability
-   - Read detailed explanation
-   - Check detection methods used
-   - Download analysis report
 
-## 🎨 Design System
-
-### Color Palette
-- **Primary**: Deep blue (#1e40af) - Trust and reliability
-- **Secondary**: Vibrant teal (#0d9488) - Innovation and technology
-- **Accent**: Warm orange (#ea580c) - Call-to-action elements
-- **Success**: Green (#10b981) - Positive results
-- **Warning**: Yellow (#f59e0b) - Uncertain results
-- **Error**: Red (#ef4444) - Negative results
-
-### Typography
-- **Font Family**: Inter (Google Fonts)
-- **Headings**: 600-700 font weight, 120% line height
-- **Body Text**: 400-500 font weight, 150% line height
-- **Code**: Monospace font for technical elements
-
-### Spacing System
-- **Base Unit**: 8px
-- **Component Spacing**: 16px, 24px, 32px
-- **Section Spacing**: 48px, 64px, 80px
-- **Container Max Width**: 1280px (7xl)
 
 ## 🚀 Deployment
 
@@ -251,37 +200,6 @@ The project includes:
 - Input validation and sanitization
 - Rate limiting for API endpoints
 
-## 🤝 Contributing
-
-### Development Setup
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Run tests**
-   ```bash
-   npm run test
-   ```
-5. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-6. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
-
-### Code Style
-
-- Use TypeScript for all new code
-- Follow ESLint configuration
-- Use Prettier for code formatting
-- Write meaningful commit messages
-- Add JSDoc comments for complex functions
 
 ## 📊 Performance
 
@@ -291,31 +209,11 @@ The project includes:
 - **Best Practices**: 100
 - **SEO**: 100
 
-### Optimization Features
-- Code splitting with Next.js
-- Image optimization and lazy loading
-- CSS purging with Tailwind
-- Bundle size optimization
-- Server-side rendering (SSR)
 
-## 🐛 Troubleshooting
 
-### Common Issues
 
-**Build Errors**
-- Ensure all environment variables are set
-- Check Node.js version compatibility (18+)
-- Clear `.next` cache: `rm -rf .next`
 
-**API Errors**
-- Verify OpenAI API key is valid
-- Check API rate limits
-- Ensure network connectivity
 
-**Styling Issues**
-- Clear browser cache
-- Check Tailwind CSS compilation
-- Verify component imports
 
 ## 📝 License
 
@@ -329,14 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Email: [your.email@example.com](mailto:your.email@example.com)
 
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-4 API
-- Vercel for hosting platform
-- ShadCN for UI components
-- Tailwind CSS for styling system
-- Framer Motion for animations
-- Next.js team for the framework
 
 ## 📈 Roadmap
 
