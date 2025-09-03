@@ -166,28 +166,7 @@ Pre-configured with:
 - Accessible color contrasts
 - Animation presets
 
-## 🎯 Usage
 
-### Fake News Detection
-
-1. **Navigate to Fake News Detector**
-   - Click "Verify News Now" on the landing page
-   - Or use the navigation menu
-
-2. **Choose Input Method**
-   - **URL**: Paste a news article URL
-   - **Text**: Copy and paste article content
-   - **File**: Upload PDF, DOC, or TXT files
-
-3. **Analyze Content**
-   - Click "Analyze for Fake News"
-   - Wait for AI processing (2-3 seconds)
-
-4. **Review Results**
-   - View credibility score and verdict
-   - Read AI-powered explanation
-   - Check verified sources
-   - Download detailed report
 
 ### Deepfake Detection
 
