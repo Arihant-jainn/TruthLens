@@ -221,11 +221,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Portfolio: [(https://arihant-jain.vercel.app/)]((https://arihant-jain.vercel.app/))
-- GitHub: [(https://github.com/Arihant-jainn)]((https://github.com/Arihant-jainn))
-
-- Email: [jarihant220@gmail.com](jarihant220@gmail.com)
+**Your Name**  
+- [Portfolio](https://arihant-jain.vercel.app/)  
+- [GitHub](https://github.com/Arihant-jainn)  
+- [Email](mailto:jarihant220@gmail.com)
 
 
 ## 📈 Roadmap
