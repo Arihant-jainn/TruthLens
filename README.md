@@ -1,6 +1,6 @@
 # TruthLens - AI-Powered Fake News & Deepfake Detection Platform
 
-![TruthLens Logo](https://via.placeholder.com/200x80/1e40af/ffffff?text=TruthLens)
+![TruthLens Logo](./assets/home.png)
 
 A cutting-edge AI platform designed to combat misinformation and deepfake content using advanced machine learning technology. TruthLens provides professional-grade content verification tools for individuals, journalists, and organizations.
 
